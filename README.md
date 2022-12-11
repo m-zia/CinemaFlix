@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# CinemaFlix
+
+You will need to get an API key from TMDB: https://developers.themoviedb.org/3/getting-started/introduction and store it in a .env file as REACT_APP_API_KEY
+
+--------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
